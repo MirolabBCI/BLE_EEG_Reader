@@ -1,0 +1,2 @@
+# Requirements for BLE EEG Reader
+bleak==0.21.1
